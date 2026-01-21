@@ -1,0 +1,4 @@
+npm install
+npm install antd
+npm install antd@^5.22.6 @ant-design/icons@^5.5.1 dayjs@^1.11.13
+npm run dev
